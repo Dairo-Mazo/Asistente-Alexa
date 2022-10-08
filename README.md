@@ -1,4 +1,4 @@
-# Asistente_a_voz_Alexa
+# Asistente a Voz
 Asistente a voz in python
 
 .Descarga las librerías solicitadas antes de ejecutar el código
